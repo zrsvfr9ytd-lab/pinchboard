@@ -1,8 +1,8 @@
 #!/bin/bash
-# Pinchboard 1.14.4 installieren / install
+# Pinchboard 1.15.0 installieren / install
 # Quelle: https://github.com/zrsvfr9ytd-lab/pinchboard – vor dem Ausführen lesen / read before running.
 #
-#   1. Lädt https://github.com/zrsvfr9ytd-lab/pinchboard/releases/download/v1.14.4/Pinchboard-1.14.4.zip
+#   1. Lädt https://github.com/zrsvfr9ytd-lab/pinchboard/releases/download/v1.15.0/Pinchboard-1.15.0.zip
 #   2. Prüft die SHA-256-Prüfsumme (bricht bei Abweichung ab)
 #   3. Beendet ein laufendes Pinchboard und ersetzt /Applications/Pinchboard.app
 #   4. Startet Pinchboard
@@ -10,9 +10,9 @@
 # Umgebung: PINCHBOARD_ZIEL (Zielordner, Standard /Applications), PINCHBOARD_NICHT_STARTEN=1
 set -euo pipefail
 
-VERSION="1.14.4"
-URL="https://github.com/zrsvfr9ytd-lab/pinchboard/releases/download/v1.14.4/Pinchboard-1.14.4.zip"
-SHA256="1137e388066c5fea8d260b25cc0ec595cc4668c08a5c1090e92fd0cc3b2763ee"
+VERSION="1.15.0"
+URL="https://github.com/zrsvfr9ytd-lab/pinchboard/releases/download/v1.15.0/Pinchboard-1.15.0.zip"
+SHA256="c94b2d0b60fb099a1032634dfa6d1a13e1a389ca9ef08105ed9d7f8cba6b2ff9"
 ZIEL="${PINCHBOARD_ZIEL:-/Applications}"
 
 meldung() { printf '==> %s\n' "$*"; }

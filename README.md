@@ -25,7 +25,7 @@ brew install --cask zrsvfr9ytd-lab/pinchboard/pinchboard
 ```
 Get updates with `brew upgrade`.
 
-**Download** – [Pinchboard 1.14.4 (DMG, 2.4 MB)](https://github.com/zrsvfr9ytd-lab/pinchboard/releases/download/v1.14.4/Pinchboard-1.14.4.dmg) or [ZIP](https://github.com/zrsvfr9ytd-lab/pinchboard/releases/download/v1.14.4/Pinchboard-1.14.4.zip), all versions under [Releases](https://github.com/zrsvfr9ytd-lab/pinchboard/releases).
+**Download** – [Pinchboard 1.15.0 (DMG, 2.4 MB)](https://github.com/zrsvfr9ytd-lab/pinchboard/releases/download/v1.15.0/Pinchboard-1.15.0.dmg) or [ZIP](https://github.com/zrsvfr9ytd-lab/pinchboard/releases/download/v1.15.0/Pinchboard-1.15.0.zip), all versions under [Releases](https://github.com/zrsvfr9ytd-lab/pinchboard/releases).
 Open the DMG and drag Pinchboard into your Applications folder.
 
 **One command** – downloads the ZIP, verifies its checksum and puts Pinchboard into Applications.
@@ -74,7 +74,7 @@ Voraussetzungen: macOS 26 oder neuer, Apple Silicon oder Intel, ein Trackpad fü
 
 ### Installieren
 - **Homebrew:** `brew install --cask zrsvfr9ytd-lab/pinchboard/pinchboard`, Updates mit `brew upgrade`.
-- **Laden:** [DMG](https://github.com/zrsvfr9ytd-lab/pinchboard/releases/download/v1.14.4/Pinchboard-1.14.4.dmg) oder [ZIP](https://github.com/zrsvfr9ytd-lab/pinchboard/releases/download/v1.14.4/Pinchboard-1.14.4.zip) öffnen und Pinchboard in „Programme“ ziehen.
+- **Laden:** [DMG](https://github.com/zrsvfr9ytd-lab/pinchboard/releases/download/v1.15.0/Pinchboard-1.15.0.dmg) oder [ZIP](https://github.com/zrsvfr9ytd-lab/pinchboard/releases/download/v1.15.0/Pinchboard-1.15.0.zip) öffnen und Pinchboard in „Programme“ ziehen.
 - **Ein Befehl:** `curl -fsSL https://raw.githubusercontent.com/zrsvfr9ytd-lab/pinchboard/main/install.sh | bash` – lädt das ZIP, prüft die Prüfsumme und legt Pinchboard in „Programme“. macOS fragt dabei nicht nach; du vertraust damit dem [Skript](install.sh), schau es dir vorher an.
 
 ### Erstes Öffnen
