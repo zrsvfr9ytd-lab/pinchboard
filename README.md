@@ -12,6 +12,7 @@ Spread your fingers and you are back on your desktop. The way you remember it. F
 - **Grid and pages:** seven by five apps per page. Swipe with two fingers to turn the page, and arrange everything the way you like.
 - **Folders:** drag one app onto another to make a folder. Pinchboard suggests a name based on the category.
 - **Search:** just start typing. Return opens the first match.
+- **Edit mode:** hold an icon (or the ⌥ key) until everything wiggles, then rearrange apps or move them to the Trash. Right-click an app to hide it.
 - **Without a trackpad:** the overview also opens with ⌃⌥L or a hot corner.
 - **Stays on your Mac:** no account, no ads, no analytics. The only time Pinchboard reaches out on its own is a daily check for updates on GitHub.
 
@@ -65,6 +66,7 @@ Pinchboard legt dir alle Apps im Vollbild hin: sieben mal fünf je Seite, mit Or
 - **Raster und Seiten:** sieben mal fünf Apps je Seite. Mit zwei Fingern blätterst du weiter, die Reihenfolge legst du selbst fest.
 - **Ordner:** Zieh eine App auf eine andere, und ein Ordner entsteht. Einen Namen schlägt Pinchboard anhand der Kategorie vor.
 - **Suche:** Fang einfach an zu tippen. Die Eingabetaste öffnet den ersten Treffer.
+- **Bearbeiten:** Ein Symbol gedrückt halten (oder die ⌥-Taste), bis alles wackelt; dann Apps verschieben oder in den Papierkorb legen. Rechtsklick blendet eine App aus.
 - **Auch ohne Trackpad:** mit ⌃⌥L oder über eine aktive Ecke des Bildschirms.
 - **Bleibt auf deinem Mac:** kein Konto, keine Werbung, keine Analyse. Von sich aus meldet sich Pinchboard nur einmal am Tag bei GitHub, um nach Updates zu fragen.
 
